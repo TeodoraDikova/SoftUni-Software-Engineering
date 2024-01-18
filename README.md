@@ -12,5 +12,5 @@
 
 | Java | JavaScript |
 | -------------- | -------------- |
-| [Programming Basics with Java](https://softuni.bg/certificates/details/173239/d251288b) | 
+| [Programming Basics with Java](https://softuni.bg/certificates/details/173239/d251288b) | [Programming Fundamentals with JavaScript](https://softuni.bg/certificates/details/194268/ed06e2b6)
 
